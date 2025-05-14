@@ -1,13 +1,9 @@
 # VirtualTourRadar
+Описание (RU):
 Виртуальная экскурсия по Иркутскому радару некогерентного рассеяния в рамках выпускной квалификационной работы (ВКР) ФБКИ ИГУ 2025
 
-Virtual tour of the Irkutsk incoherent scattering radar as part of the final qualifying work (graduation project) FBKI ISU 2025
-
-Описание (RU):
-Интерактивное VR‑приложение для виртуальной экскурсии по Иркутскому радару некогерентного рассеяния.
-
 Description (EN):
-Interactive VR application for a virtual tour of the Irkutsk incoherent scatter radar.
+Virtual tour of the Irkutsk incoherent scattering radar as part of the final qualifying work (graduation project) FBKI ISU 2025
 
 ## Демо-видео работы приложения/Demo video of the app's operation
 ### [YouTube]
