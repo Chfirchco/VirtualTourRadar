@@ -17,10 +17,9 @@ or
 ### [YouTube]
 [![Video Demonstration](https://img.youtube.com/vi/y0ORc1fOMyI/0.jpg)](https://www.youtube.com/watch?v=y0ORc1fOMyI)
 
-or
 ### [Rutube]
 [![Video Demonstration](https://img.youtube.com/vi/y0ORc1fOMyI/0.jpg)](https://rutube.ru/video/private/07c738418968a793271f37b91220e2fb/?p=DCFmnzCUgRIxyF-uRRfHrg)
-
+or
 ## Презентация/Presentation
 [PresentationVTR.pdf](PresentationVTR.pdf)
 
@@ -51,7 +50,7 @@ or
 ![Door demo](/screenshots/door.jpg)
 ![Tour Guide](/screenshots/tour_guide.jpg)
 ![Guide walking](/screenshots/walk.jpg)
-![Tour everywhere](/screenshots/streeet_tour.jpg)
+![Tour everywhere](/screenshots/street_tour.jpg)
 ### [Пример моделей/Example models]
 ![Equipment](/screenshots/resi.jpg)
 ![DC power supply](/screenshots/b5.jpg)
