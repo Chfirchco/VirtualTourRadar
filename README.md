@@ -8,18 +8,17 @@ Virtual tour of the Irkutsk incoherent scattering radar as part of the final qua
 ## Демо-видео работы приложения/Demo video of the app's operation
 ### [YouTube]
 [![Video Demonstration](https://img.youtube.com/vi/TwDvV_vJqHs/0.jpg)](https://youtu.be/TwDvV_vJqHs)
-
+or
 ### [Rutube]
 [![Video Demonstration](https://img.youtube.com/vi/TwDvV_vJqHs/0.jpg)](https://rutube.ru/video/private/ba8118e076e00b252d535de729078c7c/?p=7MurUX67yxv--tgA7yZ-yw)
 
-or
 ## Видео анимации/Video animation
 ### [YouTube]
 [![Video Demonstration](https://img.youtube.com/vi/y0ORc1fOMyI/0.jpg)](https://www.youtube.com/watch?v=y0ORc1fOMyI)
-
+or
 ### [Rutube]
 [![Video Demonstration](https://img.youtube.com/vi/y0ORc1fOMyI/0.jpg)](https://rutube.ru/video/private/07c738418968a793271f37b91220e2fb/?p=DCFmnzCUgRIxyF-uRRfHrg)
-or
+
 ## Презентация/Presentation
 [PresentationVTR.pdf](PresentationVTR.pdf)
 
