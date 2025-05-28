@@ -8,6 +8,7 @@ Virtual tour of the Irkutsk incoherent scattering radar as part of the final qua
 ## Демо-видео работы приложения/Demo video of the app's operation
 ### [YouTube]
 [![Video Demonstration](https://img.youtube.com/vi/TwDvV_vJqHs/0.jpg)](https://youtu.be/TwDvV_vJqHs)
+
 or
 ### [Rutube]
 [![Video Demonstration](https://img.youtube.com/vi/TwDvV_vJqHs/0.jpg)](https://rutube.ru/video/private/ba8118e076e00b252d535de729078c7c/?p=7MurUX67yxv--tgA7yZ-yw)
@@ -15,18 +16,25 @@ or
 ## Видео анимации/Video animation
 ### [YouTube]
 [![Video Demonstration](https://img.youtube.com/vi/y0ORc1fOMyI/0.jpg)](https://www.youtube.com/watch?v=y0ORc1fOMyI)
+
 or
 ### [Rutube]
 [![Video Demonstration](https://img.youtube.com/vi/y0ORc1fOMyI/0.jpg)](https://rutube.ru/video/private/07c738418968a793271f37b91220e2fb/?p=DCFmnzCUgRIxyF-uRRfHrg)
 
-## Презентация/Presentation
+## Презентация / Presentation
 [PresentationVTR.pdf](PresentationVTR.pdf)
 
-## Ссылка на билд/Build Link
+## Модели / Models
+[Skentchfab](https://sketchfab.com/chfirchcoluna)
+
+## Ссылка на билд / Build Link
 [Google Диск](https://drive.google.com/file/d/1680noUcOqd_L6j6f2UGFwFL6cVWi-TrQ/view?usp=sharing)
 
-## Демонстрация/Demonstration
-### [Сцены/Scenes]
+## Ссылка на исходник / Source Link
+[Google Диск](https://drive.google.com/file/d/1CGK5RC5frgdKdnmjJVwUqRr62ipVSD4A/view?usp=sharing)
+
+## Демонстрация / Demonstration
+### [Сцены / Scenes]
 ![Enter and street](/screenshots/street.jpg)
 ![Corridors](/screenshots/corridors.jpg)
 ![Meeting Room](/screenshots/meeting_room.jpg)
@@ -34,11 +42,13 @@ or
 ![TV Room another angle](/screenshots/tv_room_alt.jpg)
 ![Light corridor](/screenshots/light_corridor.jpg)
 ![Control Room](/screenshots/control.jpg)
+![Control Room another angle](/screenshots/control2.jpg)
 ![Battery Room](/screenshots/battery.jpg)
+![Switchboard](/screenshots/switchboard.jpg)
 ![Start menu](/screenshots/menu.jpg)
 ![Cinema](/screenshots/cinema.jpg)
+### [Содержимое / Content]
 ![Cinema menu](/screenshots/cinema_menu.jpg)
-### [Содержимое/Content]
 ![Cinema demonstration](/screenshots/cinema_demons.jpg)
 ![Animation start](/screenshots/anim0.jpg)
 ![Animation body](/screenshots/anim1.jpg)
@@ -50,7 +60,11 @@ or
 ![Tour Guide](/screenshots/tour_guide.jpg)
 ![Guide walking](/screenshots/walk.jpg)
 ![Tour everywhere](/screenshots/street_tour.jpg)
-### [Пример моделей/Example models]
+### [Пример моделей / Example models]
+![Switchboard](/screenshots/model_switchboard.jpg)
+![Rack Capacitors](/screenshots/model_rack_capacitors.jpg)
+![Remote Controller](/screenshots/model_remote_controller.jpg)
+![Cooling Pipes](/screenshots/model_cooling_pipes.jpg)
 ![Equipment](/screenshots/resi.jpg)
 ![DC power supply](/screenshots/b5.jpg)
 ![Ceiling coords](/screenshots/ceil.jpg)
