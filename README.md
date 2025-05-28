@@ -24,6 +24,9 @@ or
 ## Презентация / Presentation
 [PresentationVTR.pdf](PresentationVTR.pdf)
 
+## Постер по научной статье / Scientific article poster
+[PosterVTR.pdf](Suslikov_A1_posterVTRnew.pdf)
+
 ## Модели / Models
 [Skentchfab](https://sketchfab.com/chfirchcoluna)
 
